@@ -112,6 +112,12 @@ int Student::getScore(int classId, const vector<Class> &allClasses) const {
 ### 4.4.函数长度要求
 - 原则上每个函数不超过50行。
 
+## 5.卡牌描述
+* 拆除：
+* 拆解：
+* 普通牌：包括`猫瓜西`、` `、` `（待补充）
+* 
+
 
 
 
